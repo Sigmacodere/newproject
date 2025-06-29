@@ -1,0 +1,27 @@
+body {
+  background-color: #ddd;
+}
+
+.container h1 {
+  font-size: 40px;
+}
+
+.container p {
+  font-size: 24px;
+  line-height: 1.4;
+  color: blue;
+}
+
+.container {
+  margin: 0 auto;
+  width: 700px;
+  background-color: aqua;
+  border: 10px solid skyblue;
+  border-radius: 20%;
+  text-align: center;
+}
+
+.container img {
+  max-width: 500px;
+  border-radius: 10%;
+}

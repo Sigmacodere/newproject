@@ -1,0 +1,18 @@
+.sang {
+  background: #00e4e8;
+  background: linear-gradient(
+    0deg,
+    rgba(0, 228, 232, 1) 0%,
+    rgba(253, 187, 45, 1) 100%
+  );
+  transform: scale(1.02);
+}
+
+body {
+  background: #4262ff;
+  background: radial-gradient(
+    circle,
+    rgba(66, 98, 255, 1) 0%,
+    rgba(252, 70, 107, 1) 100%
+  );
+}
